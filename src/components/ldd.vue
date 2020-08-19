@@ -1,6 +1,6 @@
 <template>
   <div>
-
+  {{msg}}
   </div>
 </template>
 
@@ -8,11 +8,12 @@
   export default {
     data(){
       return{
-        msg1:"程程大宝贝"
+        msg:"李蛋蛋吃蛋蛋"
+      }
     }
   }
 </script>
 
-<style lang="sass" scoped>
+<style scoped>
 
 </style>
