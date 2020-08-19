@@ -1,5 +1,8 @@
-<template>
-  <div>
+<template> 
+
+
+  <div class="hello">
+   我是李李李
 
   </div>
 </template>
@@ -10,6 +13,7 @@
       return{
         msg1:"程程大宝贝"
     }
+  }
   }
 </script>
 
